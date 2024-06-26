@@ -1,24 +1,4 @@
 <script>
-// {
-//     "id": 1,
-//     "company": "Photosnap",
-//     "logo": "./images/photosnap.svg",
-//     "new": true,
-//     "featured": true,
-//     "position": "Senior Frontend Developer",
-//     "role": "Frontend",
-//     "level": "Senior",
-//     "postedAt": "1d ago",
-//     "contract": "Full Time",
-//     "location": "USA Only",
-//     "languages": ["HTML", "CSS", "JavaScript"],
-//     "tools": []
-//   },
-
-// - Role: Frontend, Backend, Fullstack
-// - Level: Junior, Midweight, Senior
-// - Languages: Python, Ruby, JavaScript, HTML, CSS
-// - Tools: React, Sass, Vue, Django, RoR (Ruby on Rails)
 export default {
   components: {},
   props: {
