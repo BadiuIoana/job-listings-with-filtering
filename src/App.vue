@@ -155,7 +155,7 @@ export default {
   created() {
     const getJobs = async () => {
       try {
-        const response = await fetch("/src/assets/data/data.json");
+        const response = await fetch("/public/data/data.json");
         const data = await response.json();
         this.jobs = data;
         this.jobsCopy = data;
